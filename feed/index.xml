@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Porto Rosso</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Nov 2023 20:24:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Nov 2023 20:31:30 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
-	<url>./../wp-content/uploads/2023/10/Imagen-3.png</url>
+	<url>/wp-content/uploads/2023/10/Imagen-3.png</url>
 	<title>Porto Rosso</title>
-	<link>./../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
